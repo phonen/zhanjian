@@ -1,0 +1,91 @@
+body {
+text-align:center;
+background:#5083A7;
+cursor:default
+}
+
+button {border:1px solid;cursor:pointer;border-color:#226499; margin-left:3px; margin-top:7px; color:#444; height:26px; line-height:24px; background:#f0f0f0 url(../images/button.gif) repeat-x 5px 0;}
+
+*,img,a img,a:hover img {
+font-family:Arial,sans-serif,Helvetic;
+font-size:12px;
+border:0 none;
+margin:0;
+padding:0;
+}
+
+td {
+text-align:center;
+}
+
+li {
+list-style-type:none;
+}
+
+a,a:link {
+color:#507ea4;
+text-decoration:none;
+}
+
+a:hover,.choiceOn,.choiceOn a {
+color:#0095d9;
+text-decoration:none;
+}
+
+.con {
+width:500px;
+margin-right:auto;
+margin-left:auto;
+margin-top:10px;
+}
+
+.login{ margin-top:120px; margin-left:130px;}
+
+.login .b_left {
+background:url(../images/1_01.jpg) no-repeat #5083A7  top;
+float:top;
+height:70px;
+width:250px;
+}
+
+.login .input {
+float:left;
+margin-top:50px; 
+margin-left:;
+}
+
+.input-border {
+border:1px solid #226499;
+width:165px;
+line-height:20px;
+font-size:12px;
+padding-left:2px;
+padding-top:1px;
+padding-bottom:2px;
+height:18px;
+}
+
+.logo {
+text-align:left;
+background-repeat:no-repeat;
+background-position:left top;
+height:62px;
+margin-bottom:5px;
+margin-top:20px;
+}
+
+.logTb td {
+text-align:left;
+padding-left:9px;
+color:#666;
+padding-bottom:4px;
+padding-top:4px;
+}
+
+.logTb th {
+text-align:right;
+width:62px;
+font-weight:400;
+line-height:14px;
+color:#ffffff;
+}
